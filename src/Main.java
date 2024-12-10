@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
 
-        System.out.println("enter no.of players");
+        System.out.println("enter no.of players:");
         int n=in.nextInt();
         in.nextLine();
 
